@@ -1,10 +1,11 @@
 # Revenue Insights Dashboard  
+A Power BI dashboard to track and visualize KPIs in the hospitality domain.
 
 ![Dashboard Image](revenue_insights.png)
 
 This project analyzes hotel performance metrics and visualizes key insights using **Power BI**. It provides an interactive view of revenue, occupancy, and booking trends across multiple cities.  
 
-## Features  
+## Features
 - 📊 **Key Metrics Analysis**: Revenue, RevPAR (Revenue per Available Room), ADR (Average Daily Rate), Occupancy %, and Cancellation %.  
 - 📈 **Trend Visualization**: Weekly trends for RevPAR, ADR, and occupancy across different cities and booking platforms.  
 - 🏨 **Day Type Comparison**: Performance differences between weekdays and weekends.  
