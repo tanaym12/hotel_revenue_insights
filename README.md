@@ -1,6 +1,6 @@
 # Revenue Insights Dashboard  
 
-![Dashboard Image](Revenue Insights-1.png)
+![Dashboard Image](revenue_insights.png)
 
 This project analyzes hotel performance metrics and visualizes key insights using **Power BI**. It provides an interactive view of revenue, occupancy, and booking trends across multiple cities.  
 
