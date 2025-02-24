@@ -9,10 +9,7 @@ This project analyzes hotel performance metrics and visualizes key insights usin
 - 📊 **Key Metrics Analysis**: Revenue, RevPAR (Revenue per Available Room), ADR (Average Daily Rate), Occupancy %, and Cancellation %.  
 - 📈 **Trend Visualization**: Weekly trends for RevPAR, ADR, and occupancy across different cities and booking platforms.  
 - 🏨 **Day Type Comparison**: Performance differences between weekdays and weekends.  
-- 🎛 **Filtering Options**: Users can filter by room class, city, and day type.  
-
-## Data Processing  
-- The dataset was **cleaned and structured in SQL** before being visualized in Power BI.  
+- 🎛 **Filtering Options**: Users can filter by room class, city, and day type.
 
 ## Tech Stack  
 - **🛠 Data Processing**: SQL  
